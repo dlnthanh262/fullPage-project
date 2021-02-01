@@ -5,7 +5,7 @@ new fullpage('#fullpage', {
 	navigation: true,
 	anchors: ['home', 'aboutme', 'skills', 'target', 'contact'],
 	navigationTooltips: ['Home', 'About Me', 'Skills', 'Target', 'Contact'],
-	navigationPosition: "left",
+	navigationPosition: "right",
 	menu: "#menu"
 });
 $('#fullpage').fullpage({
